@@ -1,0 +1,5 @@
+0 Ship
+1 Bird
+2 Helicopter
+3 Aeroplan 
+4 Drone
