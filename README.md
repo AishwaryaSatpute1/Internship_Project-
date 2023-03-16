@@ -2,9 +2,6 @@
 This Project Was Part of Internship - Aerial Vehicle Detection and tracking 
 
 
-# Internship_Project
-
-A brief description of what this project does and who This Project Was Part of MY Internship - Aerial Vehicle Detection and tracking 
 ## Demo
 
 Insert gif or link to demo
