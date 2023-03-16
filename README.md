@@ -13,6 +13,7 @@ We show examples on how to perform the following parts of the Deep Learning work
 
 ## 1. Collecting  and labeling data: 
 Gathered images and labelled them using a tool  Roboflow's built-in image annotation tool 
+
 [Aeroplan Dataset](https://universe.roboflow.com/enes-demirtas/rota_yolov4)
 
 [Drone  Dataset](https://universe.roboflow.com/drone-rwsrk/drone-cmxwz)
@@ -52,7 +53,7 @@ For more details, please refer to the documentation article [Getting Started wit
 To deploy this project run
 
 ```bash
-  git clone https://github.com/AishwaryaSatpute1/Internship_Project
+  git clone https://github.com/AishwaryaSatpute1/Internship_Project-.git
   cd Internship_Project
 ```
 
