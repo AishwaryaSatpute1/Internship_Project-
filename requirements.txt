@@ -1,0 +1,4 @@
+Open Cv-4.5.5.62
+Keras-2.4.3
+Pillow-7.0.0 
+Numpy-1.18.1 
